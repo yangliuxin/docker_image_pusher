@@ -1,4 +1,4 @@
 alpine:latest
 nginx:latest
 mysql:8.0
-php:8.2.24-cli
+php:8.2.24-fpm
