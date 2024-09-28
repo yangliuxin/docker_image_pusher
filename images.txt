@@ -1,5 +1,4 @@
 nginx
 alpine
-mysql
 php-cli:8.2
 redis
