@@ -1,4 +1,1 @@
-nginx
 alpine
-php-cli:8.2
-redis
