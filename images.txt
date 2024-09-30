@@ -1,4 +1,14 @@
 alpine:latest
 nginx:latest
 mysql:8.0
+mongodb
+postgres
+redis
 php:8.2.24-fpm
+php:8.2.24-cli
+ollama/ollama
+dyrnq/open-webui
+c121914yu/fastgpt
+martialbe/one-api
+temenosorg/alpine-openjdk-8-jre-glibc
+golang
