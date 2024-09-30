@@ -10,5 +10,5 @@ ollama/ollama
 dyrnq/open-webui
 c121914yu/fastgpt
 martialbe/one-api
-temenosorg/alpine-openjdk-8-jre-glibc
+openjdk:8-jdk-alpine
 golang
