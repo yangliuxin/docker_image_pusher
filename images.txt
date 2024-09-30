@@ -1,7 +1,7 @@
 alpine:latest
 nginx:latest
 mysql:8.0
-mongodb
+mongo
 postgres
 redis
 php:8.2.24-fpm
